@@ -1,0 +1,9 @@
+.idea/
+*.iml
+build/
+
+# Share scopes
+!.idea/scopes/*
+
+# Gradle local files
+.gradle/
